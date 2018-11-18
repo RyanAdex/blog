@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Println("hello world!") //n你好未来
-	fmt.Println("welcome")
+	fmt.Println("welcome")      //我很好
 }
