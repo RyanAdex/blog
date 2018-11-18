@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Println("hello world!") //你好
-	fmt.Println("welcome")
+	fmt.Println("welcome")      //瓦尼
 }
